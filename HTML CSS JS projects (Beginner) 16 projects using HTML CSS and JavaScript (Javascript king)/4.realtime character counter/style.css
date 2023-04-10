@@ -25,7 +25,7 @@ body{
     font-family: sans-serif;
     padding: 10px;
     box-sizing: border-box;
-    /* border: solid 2px darkgray; */
+    border: solid 2px darkgray;
 }
 
 .counter-container{
